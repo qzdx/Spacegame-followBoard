@@ -1,4 +1,4 @@
 # Spacegame-followBoard
 this is a cpp game follow board,only 143 lines
 #for my chinese guys->
-这是一个c++编写的宇宙剧情开放模板，提供了移动，碰撞。
+一个c++终端游戏模板，只提供移动和墙壁，还有中二的背景故事，快来下载收藏吧
